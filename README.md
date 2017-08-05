@@ -8,7 +8,7 @@
 2. [Example_04][Holograms-211-Gesture branch](https://github.com/Microsoft/HolographicAcademy/tree/Holograms-211-Gesture)
 3. [Example_05][Holograms-212-Voice branch](https://github.com/Microsoft/HolographicAcademy/tree/Holograms-212-Voice)
 4. [Example_06][Holograms-230-SpatialMapping branch](https://github.com/Microsoft/HolographicAcademy/tree/Holograms-230-SpatialMapping)
-5. [Example_07][Project]()
+5. [Example_07][Project](https://github.com/mipsdoc/HoloLens_Example/tree/Example_07)
 
 
  
